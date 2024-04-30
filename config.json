@@ -1,0 +1,33 @@
+{
+  "number": 3,
+  "symbol": "SMB",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "ruleSet": null,
+  "creators": [
+    {
+      "address": "7tW7S6bWSUK3qQCDc3fQzaJ3dYMSZCtp1kQyzD7HN7WT",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "solPayment": {
+        "value": 0.01,
+        "destination": "7tW7S6bWSUK3qQCDc3fQzaJ3dYMSZCtp1kQyzD7HN7WT"
+      },
+      "startDate": {
+        "date": "2022-10-23T20:00:00Z"
+      }
+    }
+  }
+}

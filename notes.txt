@@ -1,0 +1,30 @@
+RPC_URL = https://cosmopolitan-omniscient-asphalt.solana-devnet.quiknode.pro/4c661d06dc762dee8efa6e8e6e1a083ede39b670/
+
+Generating a new keypair
+Wrote new keypair to ./wallet.json
+=======================================================================
+pubkey: 7tW7S6bWSUK3qQCDc3fQzaJ3dYMSZCtp1kQyzD7HN7WT
+=======================================================================
+Save this seed phrase to recover your new keypair:
+play subway wide trumpet mom system point march dove across rifle stuff
+=======================================================================
+
+ sugar deploy
+[1/3] 📦 Creating collection NFT for candy machine
+Collection mint ID: FaMyQ96wWqsApwRuqfDLfmdxxRUboFebWD6VPHfKfeQm
+
+[2/3] 🍬 Creating candy machine
+Candy machine ID: 6Axypp5Wc1uZze4q169wMLQHo7o4gN66KJvgD5o5P4bW
+
+ sugar guard add
+[1/3] 🔍 Looking up candy machine
+
+Candy machine ID: 6Axypp5Wc1uZze4q169wMLQHo7o4gN66KJvgD5o5P4bW
+
+[2/3] 🛡  Initializing a candy guard
+Signature: 4QeArK4TtoboKxiQpaeeKDBGDidgRt4UxktKLCKJFaCscYtDwvbtFsHhQQs1i2dXiFnTqUHNbo3fwGDCJED72Ybh
+
+Candy guard ID: FWEismLcUh23PFs6sbwT2QZTxREyEFkFoi9RLqdwmXbN
+
+[3/3] 📦 Wrapping
+Signature: 3cy5GYYH2GEbUMowKqJk5NPmGfynbzS1pBtKFRUFpTm1qbaT6i2dsswa2GQEN2o6YfpKRYuCNSqBHqNZ3EUHGr1

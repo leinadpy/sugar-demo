@@ -1,0 +1,40 @@
+{
+    "name": "SMB #100",
+    "symbol": "SMB",
+    "description": "SMB is a collection of 3 randomly generated 24x24 pixels NFTs on the Solana Blockchain.",
+    "image": "1.png",
+    "attributes": [
+      {
+        "trait_type": "clothes",
+        "value": "Biker Vest"
+      },
+      {
+        "trait_type": "ears",
+        "value": "Silver Earring"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "None"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Green Cap"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "type",
+        "value": "Red"
+      }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
